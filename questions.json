@@ -1,0 +1,232 @@
+{
+  "heading": "Rounding off Integers and Decimals",
+  "topics": [
+    {
+      "heading": "Rounding off Integers and Decimals",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Round 2.645 to the nearest tenth.",
+          "options": [
+            { "text": "2.6" },
+            { "text": "2.7" },
+            { "text": "2.8" },
+            { "text": "2.5" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "question": "Round 52.68 to the nearest integer.",
+          "options": [
+            { "text": "50" },
+            { "text": "52" },
+            { "text": "53" },
+            { "text": "55" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "Round 8.736 to the nearest hundredth.",
+          "options": [
+            { "text": "8.74" },
+            { "text": "8.76" },
+            { "text": "8.70" },
+            { "text": "8.80" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 4,
+          "question": "Round 5.98765 to the nearest thousandth.",
+          "options": [
+            { "text": "5.987" },
+            { "text": "5.988" },
+            { "text": "5.98" },
+            { "text": "5.99" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "Round 0.786 to the nearest tenth.",
+          "options": [
+            { "text": "0.7" },
+            { "text": "0.78" },
+            { "text": "0.79" },
+            { "text": "0.8" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 6,
+          "question": "Round 0.556 to the nearest tenth.",
+          "options": [
+            { "text": "0.55" },
+            { "text": "0.56" },
+            { "text": "0.6" },
+            { "text": "0.5" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "Round 7,350 to the nearest hundred.",
+          "options": [
+            { "text": "7,300" },
+            { "text": "7,400" },
+            { "text": "7,350" },
+            { "text": "7,500" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 8,
+          "question": "Round 0.6287 to the nearest thousandth.",
+          "options": [
+            { "text": "0.629" },
+            { "text": "0.628" },
+            { "text": "0.63" },
+            { "text": "0.62" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 9,
+          "question": "Round -0.75 to the nearest integer.",
+          "options": [
+            { "text": "-1" },
+            { "text": "0" },
+            { "text": "-2" },
+            { "text": "1" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 10,
+          "question": "Round 0.49 to the nearest integer.",
+          "options": [
+            { "text": "0" },
+            { "text": "1" },
+            { "text": "-1" },
+            { "text": "2" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "A laptop is priced at $1200 and receives a 20% store discount. After this discount, there is an additional promotional code that offers 5% off the discounted price. What is the final price of the laptop?",
+          "options": [
+            { "text": "$900" },
+            { "text": "$912" },
+            { "text": "$960" },
+            { "text": "$1040" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "If the decimal 0.75 is expressed as a simplified fraction <sup>x</sup>&frasl;<sub>y</sub> in its simplest form, what is x+y?",
+          "options": [
+            { "text": "11" },
+            { "text": "9" },
+            { "text": "7" },
+            { "text": "3" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 13,
+          "question": "In a group of 150 people attending a workshop, 90 participants completed the advanced training module. What fraction of the group did not complete the advanced training?",
+          "options": [
+            { "image": "./assests/images/option/17.jpg" },
+            { "image": "./assests/images/option/18.jpg" },
+            { "image": "./assests/images/option/19.jpg" },
+            { "image": "./assests/images/option/20.jpg" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "Consider the following decimal numbers: 0.22, 0.59, 0.34, 0.48, 0.15, 0.28, 0.42 Lila arranges all the numbers in ascending order. Which number appears in the middle of the sequence?",
+          "options": [
+            { "text": "0.42" },
+            { "text": "0.28" },
+            { "text": "0.48" },
+            { "text": "0.34" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 15,
+          "question": "Which of these statements is/are correct? <br><img width='60%' src='./assests/images/question/1.png'>",
+          "options": [
+            { "text": "Statement B only" },
+            { "text": "Statement C only" },
+            { "text": "Statements A and B only" },
+            { "text": "Statements A and C only" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 16,
+          "question": "What is the result of adding 0.50 to the fraction equivalent of 25% and then multiplying the sum by 3?",
+          "options": [
+            { "text": "2.25" },
+            { "text": "1.5" },
+            { "text": "2.0" },
+            { "text": "1.75" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of these numbers is closest to <sup>2</sup>&frasl;<sub>3</sub>?",
+          "options": [
+            { "text": "0.66" },
+            { "text": "0.67" },
+            { "text": "0.65" },
+            { "text": "0.68" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 18,
+          "question": "In a workshop of 50 people, 70% are women and the rest are men. At the end of the session, 20% of the men and 40% of the women received certificates for outstanding performance. What percentage of the total participants received certificates for outstanding performance?",
+          "options": [
+            { "text": "25%" },
+            { "text": "28%" },
+            { "text": "32%" },
+            { "text": "34%" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 19,
+          "question": "For a fruit salad, you mix 4 parts apples, 2 parts bananas, and 1 part cherries. What percentage of the salad consists of apples, and what percentage consists of bananas?",
+          "options": [
+            { "text": "Apples: 57.1%, Bananas: 28.6%" },
+            { "text": "Apples: 66.7%, Bananas: 33.3%" },
+            { "text": "Apples: 50%, Bananas: 25%" },
+            { "text": "Apples: 60%, Bananas: 30%" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 20,
+          "question": "The sum of two fractions is <sup>3</sup>&frasl;<sub>4</sub>. If one of the fractions is <sup>5</sup>&frasl;<sub>8</sub>. What is the difference between the two fractions?",
+          "options": [
+            { "image": "./assests/images/option/21.jpg" },
+            { "image": "./assests/images/option/22.jpg" },
+            { "image": "./assests/images/option/23.jpg" },
+            { "image": "./assests/images/option/24.jpg" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+      
+    }
+  ]
+}
